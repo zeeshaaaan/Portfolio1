@@ -736,6 +736,15 @@ height: 140px;
   padding: 0 50px;
 }
 
+
+.cse{
+  line-height: 20px;
+  font-size: 12px;
+  color: var(--text-black-900);
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
 @media (max-width:1199px){
   .aside{
     left: -270px;
